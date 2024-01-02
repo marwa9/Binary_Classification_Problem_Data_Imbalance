@@ -1,0 +1,202 @@
+ Evaluation on validation dataset 
+F1 score on validation set at epoch 0: 86.96 %
+preds :  [0, 1, 0, 1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1]
+labels :  [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Accuracy on validation set at epoch 0: 80.65 %
+ Evaluation on testing dataset 
+F1 score on testing set at epoch 0: 71.43 %
+preds :  [1, 0, 1, 1, 1, 1, 0, 1, 1, 1]
+labels :  [0, 0, 1, 1, 0, 1, 1, 1, 1, 0]
+Accuracy on testing set at epoch 0: 60.00 %
+ Evaluation on validation dataset 
+F1 score on validation set at epoch 1: 73.17 %
+preds :  [0, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1]
+labels :  [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Accuracy on validation set at epoch 1: 64.52 %
+ Evaluation on testing dataset 
+F1 score on testing set at epoch 1: 54.55 %
+preds :  [0, 0, 1, 1, 1, 1, 0, 0, 0, 1]
+labels :  [0, 0, 1, 1, 0, 1, 1, 1, 1, 0]
+Accuracy on testing set at epoch 1: 50.00 %
+ Evaluation on validation dataset 
+F1 score on validation set at epoch 2: 76.19 %
+preds :  [0, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1]
+labels :  [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Accuracy on validation set at epoch 2: 67.74 %
+ Evaluation on testing dataset 
+F1 score on testing set at epoch 2: 40.00 %
+preds :  [0, 0, 0, 1, 1, 1, 0, 0, 0, 1]
+labels :  [0, 0, 1, 1, 0, 1, 1, 1, 1, 0]
+Accuracy on testing set at epoch 2: 40.00 %
+ Evaluation on validation dataset 
+F1 score on validation set at epoch 3: 76.19 %
+preds :  [0, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1]
+labels :  [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Accuracy on validation set at epoch 3: 67.74 %
+ Evaluation on testing dataset 
+F1 score on testing set at epoch 3: 54.55 %
+preds :  [0, 0, 1, 1, 1, 1, 0, 0, 0, 1]
+labels :  [0, 0, 1, 1, 0, 1, 1, 1, 1, 0]
+Accuracy on testing set at epoch 3: 50.00 %
+ Evaluation on validation dataset 
+F1 score on validation set at epoch 4: 70.00 %
+preds :  [0, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 1, 1, 0, 1, 1, 0, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1]
+labels :  [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Accuracy on validation set at epoch 4: 61.29 %
+ Evaluation on testing dataset 
+F1 score on testing set at epoch 4: 40.00 %
+preds :  [0, 0, 0, 1, 1, 1, 0, 0, 0, 1]
+labels :  [0, 0, 1, 1, 0, 1, 1, 1, 1, 0]
+Accuracy on testing set at epoch 4: 40.00 %
+ Evaluation on validation dataset 
+F1 score on validation set at epoch 5: 76.19 %
+preds :  [0, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1]
+labels :  [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Accuracy on validation set at epoch 5: 67.74 %
+ Evaluation on testing dataset 
+F1 score on testing set at epoch 5: 40.00 %
+preds :  [0, 0, 0, 1, 1, 1, 0, 0, 0, 1]
+labels :  [0, 0, 1, 1, 0, 1, 1, 1, 1, 0]
+Accuracy on testing set at epoch 5: 40.00 %
+ Evaluation on validation dataset 
+F1 score on validation set at epoch 6: 76.19 %
+preds :  [0, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1]
+labels :  [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Accuracy on validation set at epoch 6: 67.74 %
+ Evaluation on testing dataset 
+F1 score on testing set at epoch 6: 40.00 %
+preds :  [0, 0, 0, 1, 1, 1, 0, 0, 0, 1]
+labels :  [0, 0, 1, 1, 0, 1, 1, 1, 1, 0]
+Accuracy on testing set at epoch 6: 40.00 %
+ Evaluation on validation dataset 
+F1 score on validation set at epoch 7: 73.17 %
+preds :  [0, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1]
+labels :  [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Accuracy on validation set at epoch 7: 64.52 %
+ Evaluation on testing dataset 
+F1 score on testing set at epoch 7: 40.00 %
+preds :  [0, 0, 0, 1, 1, 1, 0, 0, 0, 1]
+labels :  [0, 0, 1, 1, 0, 1, 1, 1, 1, 0]
+Accuracy on testing set at epoch 7: 40.00 %
+ Evaluation on validation dataset 
+F1 score on validation set at epoch 8: 76.19 %
+preds :  [0, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1]
+labels :  [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Accuracy on validation set at epoch 8: 67.74 %
+ Evaluation on testing dataset 
+F1 score on testing set at epoch 8: 40.00 %
+preds :  [0, 0, 0, 1, 1, 1, 0, 0, 0, 1]
+labels :  [0, 0, 1, 1, 0, 1, 1, 1, 1, 0]
+Accuracy on testing set at epoch 8: 40.00 %
+ Evaluation on validation dataset 
+F1 score on validation set at epoch 9: 76.19 %
+preds :  [0, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1]
+labels :  [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Accuracy on validation set at epoch 9: 67.74 %
+ Evaluation on testing dataset 
+F1 score on testing set at epoch 9: 40.00 %
+preds :  [0, 0, 0, 1, 1, 1, 0, 0, 0, 1]
+labels :  [0, 0, 1, 1, 0, 1, 1, 1, 1, 0]
+Accuracy on testing set at epoch 9: 40.00 %
+ Evaluation on validation dataset 
+F1 score on validation set at epoch 10: 73.17 %
+preds :  [0, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 1, 1, 0, 1, 1, 0, 1, 0, 0, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1]
+labels :  [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Accuracy on validation set at epoch 10: 64.52 %
+ Evaluation on testing dataset 
+F1 score on testing set at epoch 10: 40.00 %
+preds :  [0, 0, 0, 1, 1, 1, 0, 0, 0, 1]
+labels :  [0, 0, 1, 1, 0, 1, 1, 1, 1, 0]
+Accuracy on testing set at epoch 10: 40.00 %
+ Evaluation on validation dataset 
+F1 score on validation set at epoch 11: 73.17 %
+preds :  [0, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 1, 1, 0, 1, 1, 0, 1, 0, 0, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1]
+labels :  [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Accuracy on validation set at epoch 11: 64.52 %
+ Evaluation on testing dataset 
+F1 score on testing set at epoch 11: 54.55 %
+preds :  [0, 0, 1, 1, 1, 1, 0, 0, 0, 1]
+labels :  [0, 0, 1, 1, 0, 1, 1, 1, 1, 0]
+Accuracy on testing set at epoch 11: 50.00 %
+ Evaluation on validation dataset 
+F1 score on validation set at epoch 12: 73.17 %
+preds :  [0, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 1, 1, 0, 1, 1, 0, 1, 0, 0, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1]
+labels :  [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Accuracy on validation set at epoch 12: 64.52 %
+ Evaluation on testing dataset 
+F1 score on testing set at epoch 12: 40.00 %
+preds :  [0, 0, 0, 1, 1, 1, 0, 0, 0, 1]
+labels :  [0, 0, 1, 1, 0, 1, 1, 1, 1, 0]
+Accuracy on testing set at epoch 12: 40.00 %
+ Evaluation on validation dataset 
+F1 score on validation set at epoch 13: 76.19 %
+preds :  [0, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1]
+labels :  [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Accuracy on validation set at epoch 13: 67.74 %
+ Evaluation on testing dataset 
+F1 score on testing set at epoch 13: 40.00 %
+preds :  [0, 0, 0, 1, 1, 1, 0, 0, 0, 1]
+labels :  [0, 0, 1, 1, 0, 1, 1, 1, 1, 0]
+Accuracy on testing set at epoch 13: 40.00 %
+ Evaluation on validation dataset 
+F1 score on validation set at epoch 14: 76.19 %
+preds :  [0, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1]
+labels :  [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Accuracy on validation set at epoch 14: 67.74 %
+ Evaluation on testing dataset 
+F1 score on testing set at epoch 14: 54.55 %
+preds :  [0, 0, 1, 1, 1, 1, 0, 0, 0, 1]
+labels :  [0, 0, 1, 1, 0, 1, 1, 1, 1, 0]
+Accuracy on testing set at epoch 14: 50.00 %
+ Evaluation on validation dataset 
+F1 score on validation set at epoch 15: 70.00 %
+preds :  [0, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 1, 1, 0, 1, 1, 0, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1]
+labels :  [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Accuracy on validation set at epoch 15: 61.29 %
+ Evaluation on testing dataset 
+F1 score on testing set at epoch 15: 40.00 %
+preds :  [0, 0, 0, 1, 1, 1, 0, 0, 0, 1]
+labels :  [0, 0, 1, 1, 0, 1, 1, 1, 1, 0]
+Accuracy on testing set at epoch 15: 40.00 %
+ Evaluation on validation dataset 
+F1 score on validation set at epoch 16: 73.17 %
+preds :  [0, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1]
+labels :  [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Accuracy on validation set at epoch 16: 64.52 %
+ Evaluation on testing dataset 
+F1 score on testing set at epoch 16: 40.00 %
+preds :  [0, 0, 0, 1, 1, 1, 0, 0, 0, 1]
+labels :  [0, 0, 1, 1, 0, 1, 1, 1, 1, 0]
+Accuracy on testing set at epoch 16: 40.00 %
+ Evaluation on validation dataset 
+F1 score on validation set at epoch 17: 70.00 %
+preds :  [0, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 1, 1, 0, 1, 1, 0, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1]
+labels :  [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Accuracy on validation set at epoch 17: 61.29 %
+ Evaluation on testing dataset 
+F1 score on testing set at epoch 17: 40.00 %
+preds :  [0, 0, 0, 1, 1, 1, 0, 0, 0, 1]
+labels :  [0, 0, 1, 1, 0, 1, 1, 1, 1, 0]
+Accuracy on testing set at epoch 17: 40.00 %
+ Evaluation on validation dataset 
+F1 score on validation set at epoch 18: 70.00 %
+preds :  [0, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 1, 1, 0, 1, 1, 0, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1]
+labels :  [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Accuracy on validation set at epoch 18: 61.29 %
+ Evaluation on testing dataset 
+F1 score on testing set at epoch 18: 54.55 %
+preds :  [0, 0, 1, 1, 1, 1, 0, 0, 0, 1]
+labels :  [0, 0, 1, 1, 0, 1, 1, 1, 1, 0]
+Accuracy on testing set at epoch 18: 50.00 %
+ Evaluation on validation dataset 
+F1 score on validation set at epoch 19: 73.17 %
+preds :  [0, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 1, 1, 0, 1, 1, 0, 1, 0, 0, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1]
+labels :  [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Accuracy on validation set at epoch 19: 64.52 %
+ Evaluation on testing dataset 
+F1 score on testing set at epoch 19: 40.00 %
+preds :  [0, 0, 0, 1, 1, 1, 0, 0, 0, 1]
+labels :  [0, 0, 1, 1, 0, 1, 1, 1, 1, 0]
+Accuracy on testing set at epoch 19: 40.00 %
+ best_epoch :  0
+ best_val_f1 :  86.95652173913044
