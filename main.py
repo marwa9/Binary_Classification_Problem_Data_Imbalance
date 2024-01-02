@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+
 """
-Trimble / Bilberry : AI Engineer technical exercise
-Part 1
+@author: Marwa Kechaou
 """
 
 import torch
